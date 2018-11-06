@@ -1,0 +1,16 @@
+title:
+  "Título do Site"
+  
+description:
+  "Descrição do site. Sed tincidunt est a magna rutrum, eget rhoncus tortor maximus. Aenean a nunc a arcu luctus bibendum. Cras a mauris rhoncus dolor luctus lacinia nec eu tell."
+
+lang:
+  "pt-BR"
+
+permalink:
+  pretty
+
+gems:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-redirect-from
