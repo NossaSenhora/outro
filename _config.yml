@@ -7,6 +7,9 @@ description:
 lang:
   "pt-BR"
 
+remote_theme:
+  jekyll/minima
+
 permalink:
   pretty
 
